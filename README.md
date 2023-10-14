@@ -27,4 +27,4 @@ This is a simple terminal-based slot machine game where you can test your luck a
 5. Install ```npm -i prompt-sync```
 6. Run the game by executing the script: `node main.js`.
 
-# Enjoy playing and may you hit the jackpot! 🎰💰🎉
+# Play & Hit Jackpot! 🎰💰🎉
