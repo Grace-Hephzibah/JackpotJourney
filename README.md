@@ -1,4 +1,5 @@
 # JackpotJourney
+Thanks to <a href = "https://www.youtube.com/watch?v=E3XxeE7NF30">TechWithTim</a>
 ## Console Slot Machine 💵 Adventure 
 
 Welcome to JackpotJourney :  Console Slot Machine 💵 Adventure project! 
